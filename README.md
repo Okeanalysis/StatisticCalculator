@@ -41,6 +41,9 @@ SciPy
 
 
 Copy code
+
 ├── Statistic_Calculator.py        # Python script implementing the calculator
+
 ├── statistic_calculator.ipynb     # Jupyter notebook version of the calculator
+
 ├── README.md            # This file
